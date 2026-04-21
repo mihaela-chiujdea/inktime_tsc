@@ -41,10 +41,10 @@ Au fost parcurse toate etapele principale:
 ## Design PCB
 
 ### Layout 2D
-![PCB 2D](blob/main/Images/pcb_2d.png)
+![PCB 2D](Images/pcb_2d.png)
 
 ### Vizualizare 3D
-![PCB 3D](images/pcb_3d.png)
+![PCB 3D](Images/pcb_3d.png)
 
 ---
 
